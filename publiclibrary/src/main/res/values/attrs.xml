@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--自定义圆形控件的属性-->
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+        <attr name="border_overlay" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="SingleCheckView">
+        <attr name="scv_explain" format="string" />
+        <attr name="scv_checked_drawable" format="reference" />
+        <attr name="scv_unChecked_drawable" format="reference" />
+        <attr name="scv_check_tv_color" format="reference"/>
+        <attr name="scv_unCheck_tv_color" format="reference"/>
+        <attr name="scv_checked" format="boolean" />
+        <attr name="scv_direction" format="integer" />
+    </declare-styleable>
+
+</resources>

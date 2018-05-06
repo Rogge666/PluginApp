@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--基本字体样式-->
+    <style name="PB.TextAppearance" parent="Base.TextAppearance.AppCompat">
+    </style>
+    <!--///////////////////////////////////
+    ///////   专用文体样式
+    ////////////////////////////////////-->
+    <!--导航标题，需特表强调的文字-->
+    <style name="PB.TextAppearance.36_666666">
+        <item name="android:textSize">@dimen/ts_36</item>
+        <item name="android:textColor">@color/c_222222</item>
+    </style>
+    <!--较为重要的文字。如：模块标题名称、按钮-->
+    <style name="PB.TextAppearance.30_222222">
+        <item name="android:textSize">@dimen/ts_30</item>
+        <item name="android:textColor">@color/c_222222</item>
+    </style>
+    <style name="PB.TextAppearance.18_222222">
+        <item name="android:textSize">@dimen/ts_18</item>
+        <item name="android:textColor">@color/c_222222</item>
+    </style>
+    <style name="PB.TextAppearance.16_222222">
+        <item name="android:textSize">@dimen/ts_16</item>
+        <item name="android:textColor">@color/c_222222</item>
+    </style>
+    <style name="PB.TextAppearance.16_333333">
+        <item name="android:textSize">@dimen/ts_16</item>
+        <item name="android:textColor">@color/c_333333</item>
+    </style>
+    <style name="PB.TextAppearance.15_222222">
+        <item name="android:textSize">@dimen/ts_15</item>
+        <item name="android:textColor">@color/c_222222</item>
+    </style>
+    <style name="PB.TextAppearance.15_666666">
+        <item name="android:textSize">@dimen/ts_15</item>
+        <item name="android:textColor">@color/c_666666</item>
+    </style>
+    <style name="PB.TextAppearance.14_222222">
+        <item name="android:textSize">@dimen/ts_14</item>
+        <item name="android:textColor">@color/c_222222</item>
+    </style>
+    <style name="PB.TextAppearance.14_555555">
+        <item name="android:textSize">@dimen/ts_14</item>
+        <item name="android:textColor">@color/c_555555</item>
+    </style>
+    <style name="PB.TextAppearance.13_222222">
+        <item name="android:textSize">@dimen/ts_13</item>
+        <item name="android:textColor">@color/c_222222</item>
+    </style>
+    <style name="PB.TextAppearance.13_333333">
+        <item name="android:textSize">@dimen/ts_13</item>
+        <item name="android:textColor">@color/c_333333</item>
+    </style>
+    <!--大多数文字。如：通告详情、商品介绍等大段文字-->
+    <style name="PB.TextAppearance.28_666666">
+        <item name="android:textSize">@dimen/ts_28</item>
+        <item name="android:textColor">@color/c_666666</item>
+    </style>
+    <!--用于小标题，或模块描述等-->
+    <style name="PB.TextAppearance.26_666666">
+        <item name="android:textSize">@dimen/ts_26</item>
+        <item name="android:textColor">@color/c_666666</item>
+    </style>
+    <style name="PB.TextAppearance.18_666666">
+        <item name="android:textSize">@dimen/ts_18</item>
+        <item name="android:textColor">@color/c_666666</item>
+    </style>
+    <style name="PB.TextAppearance.16_666666">
+        <item name="android:textSize">@dimen/ts_16</item>
+        <item name="android:textColor">@color/c_666666</item>
+    </style>
+
+    <style name="PB.TextAppearance.13_666666">
+        <item name="android:textSize">@dimen/ts_13</item>
+        <item name="android:textColor">@color/c_666666</item>
+    </style>
+    <style name="PB.TextAppearance.13_777777">
+        <item name="android:textSize">@dimen/ts_13</item>
+        <item name="android:textColor">@color/c_777777</item>
+    </style>
+
+    <!--辅助性文字。如：副标题，备注信息等~-->
+    <style name="PB.TextAppearance.24_999999">
+        <item name="android:textSize">@dimen/ts_24</item>
+        <item name="android:textColor">@color/c_999999</item>
+    </style>
+    <!--辅助性文字。如：次要的备注信息等~-->
+    <style name="PB.TextAppearance.20_999999">
+        <item name="android:textSize">@dimen/ts_20</item>
+        <item name="android:textColor">@color/c_999999</item>
+    </style>
+    <style name="PB.TextAppearance.16_999999">
+        <item name="android:textSize">@dimen/ts_16</item>
+        <item name="android:textColor">@color/c_999999</item>
+    </style>
+
+    <style name="PB.TextAppearance.10_999999">
+        <item name="android:textSize">@dimen/ts_10</item>
+        <item name="android:textColor">@color/c_999999</item>
+    </style>
+    <style name="PB.TextAppearance.14_999999">
+        <item name="android:textSize">@dimen/ts_14</item>
+        <item name="android:textColor">@color/c_999999</item>
+    </style>
+    <style name="PB.TextAppearance.13_999999">
+        <item name="android:textSize">@dimen/ts_13</item>
+        <item name="android:textColor">@color/c_999999</item>
+    </style>
+    <style name="PB.TextAppearance.13_555555">
+        <item name="android:textSize">@dimen/ts_13</item>
+        <item name="android:textColor">@color/c_555555</item>
+    </style>
+    <style name="PB.TextAppearance.11_666666">
+        <item name="android:textSize">@dimen/ts_11</item>
+        <item name="android:textColor">@color/c_666666</item>
+    </style>
+    <style name="PB.TextAppearance.11_999999">
+        <item name="android:textSize">@dimen/ts_11</item>
+        <item name="android:textColor">@color/c_999999</item>
+    </style>
+    <style name="PB.TextAppearance.11_aaaaaa">
+        <item name="android:textSize">@dimen/ts_11</item>
+        <item name="android:textColor">@color/c_aaaaaa</item>
+    </style>
+    <style name="PB.TextAppearance.18_f3f5f7">
+        <item name="android:textSize">@dimen/ts_18</item>
+        <item name="android:textColor">@color/background</item>
+    </style>
+
+    <style name="PB.TextAppearance.17_333333">
+        <item name="android:textSize">@dimen/ts_17</item>
+        <item name="android:textColor">@color/c_333333</item>
+    </style>
+    <style name="PB.TextAppearance.17_444444">
+        <item name="android:textSize">@dimen/ts_17</item>
+        <item name="android:textColor">@color/c_444444</item>
+    </style>
+    <style name="PB.TextAppearance.17_666666">
+        <item name="android:textSize">@dimen/ts_17</item>
+        <item name="android:textColor">@color/c_666666</item>
+    </style>
+
+    <style name="PB.TextAppearance.14_333333">
+        <item name="android:textSize">@dimen/ts_14</item>
+        <item name="android:textColor">@color/c_333333</item>
+    </style>
+    <style name="PB.TextAppearance.14_666666">
+        <item name="android:textSize">@dimen/ts_14</item>
+        <item name="android:textColor">@color/c_666666</item>
+    </style>
+    <style name="PB.TextAppearance.26_ffffff">
+        <item name="android:textSize">@dimen/ts_26</item>
+        <item name="android:textColor">@color/ffffff</item>
+    </style>
+    <style name="PB.TextAppearance.24_ffffff">
+        <item name="android:textSize">@dimen/ts_24</item>
+        <item name="android:textColor">@color/ffffff</item>
+    </style>
+    <style name="PB.TextAppearance.20_ffffff">
+        <item name="android:textSize">@dimen/ts_20</item>
+        <item name="android:textColor">@color/ffffff</item>
+    </style>
+    <style name="PB.TextAppearance.17_ffffff">
+        <item name="android:textSize">@dimen/ts_17</item>
+        <item name="android:textColor">@color/ffffff</item>
+    </style>
+    <style name="PB.TextAppearance.16_ffffff">
+        <item name="android:textSize">@dimen/ts_16</item>
+        <item name="android:textColor">@color/ffffff</item>
+    </style>
+
+    <style name="PB.TextAppearance.16_444444">
+        <item name="android:textSize">@dimen/ts_16</item>
+        <item name="android:textColor">@color/c_444444</item>
+    </style>
+    <style name="PB.TextAppearance.16_aaaaaa">
+        <item name="android:textSize">@dimen/ts_16</item>
+        <item name="android:textColor">@color/c_aaaaaa</item>
+    </style>
+    <style name="PB.TextAppearance.15_333333">
+        <item name="android:textSize">@dimen/ts_15</item>
+        <item name="android:textColor">@color/c_333333</item>
+    </style>
+    <style name="PB.TextAppearance.15_444444">
+        <item name="android:textSize">@dimen/ts_15</item>
+        <item name="android:textColor">@color/c_444444</item>
+    </style>
+    <style name="PB.TextAppearance.15_ffffff">
+        <item name="android:textAllCaps" tools:targetApi="ice_cream_sandwich">false</item>
+        <item name="android:textSize">@dimen/ts_15</item>
+        <item name="android:textColor">@color/ffffff</item>
+    </style>
+
+    <style name="PB.TextAppearance.14_ffffff">
+        <item name="android:textAllCaps" tools:targetApi="ice_cream_sandwich">false</item>
+        <item name="android:textSize">@dimen/ts_14</item>
+        <item name="android:textColor">@color/ffffff</item>
+    </style>
+
+    <style name="PB.TextAppearance.10_ffffff">
+        <item name="android:textSize">@dimen/ts_10</item>
+        <item name="android:textColor">@color/ffffff</item>
+    </style>
+
+    <style name="PB.TextAppearance.11_ffffff">
+        <item name="android:textSize">@dimen/ts_11</item>
+        <item name="android:textColor">@color/ffffff</item>
+    </style>
+
+    <style name="PB.TextAppearance.13_ffffff">
+        <item name="android:textSize">@dimen/ts_13</item>
+        <item name="android:textColor">@color/ffffff</item>
+    </style>
+    <style name="PB.TextAppearance.36_main">
+        <item name="android:textSize">@dimen/ts_36</item>
+        <item name="android:textColor">@color/main_color</item>
+    </style>
+    <style name="PB.TextAppearance.17_main">
+        <item name="android:textSize">@dimen/ts_17</item>
+        <item name="android:textColor">@color/main_color</item>
+    </style>
+    <style name="PB.TextAppearance.16_main">
+        <item name="android:textSize">@dimen/ts_16</item>
+        <item name="android:textColor">@color/main_color</item>
+    </style>
+
+    <style name="PB.TextAppearance.15_main">
+        <item name="android:textSize">@dimen/ts_15</item>
+        <item name="android:textColor">@color/main_color</item>
+    </style>
+
+    <style name="PB.TextAppearance.13_main">
+        <item name="android:textSize">@dimen/ts_13</item>
+        <item name="android:textColor">@color/main_color</item>
+    </style>
+
+    <style name="PB.TextAppearance.12_main">
+        <item name="android:textSize">@dimen/ts_12</item>
+        <item name="android:textColor">@color/main_color</item>
+    </style>
+
+    <style name="PB.TextAppearance.12_666666">
+        <item name="android:textSize">@dimen/ts_12</item>
+        <item name="android:textColor">@color/c_666666</item>
+    </style>
+    <style name="PB.TextAppearance.12_999999">
+        <item name="android:textSize">@dimen/ts_12</item>
+        <item name="android:textColor">@color/c_999999</item>
+    </style>
+    <style name="PB.TextAppearance.10_main">
+        <item name="android:textSize">@dimen/ts_10</item>
+        <item name="android:textColor">@color/main_color</item>
+    </style>
+</resources>

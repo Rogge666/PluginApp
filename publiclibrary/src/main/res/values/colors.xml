@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- app主色调-->
+    <color name="main_color">#FA7C20</color>
+    <color name="orange">#FA8C20</color>
+
+    <color name="eeeeee">#eeeeee</color>
+    <color name="c_818181">#818181</color>
+    <color name="c_ff0033">#ff0033</color>
+    <color name="c_ff3535">#ff3535</color>
+    <color name="c_d0263c">#d0263c</color>
+    <color name="c_00a8ec">#00a8ec</color>
+    <color name="c_01b1fa">#01b1fa</color>
+    <color name="c_79c471">#79c471</color>
+    <color name="c_c441b9">#c441b9</color>
+
+    <color name="background">#f1f1f1</color>
+    <color name="small_divide">#e1e1e1</color>
+
+    <color name="color_gray_e6e6e6">#e6e6e6</color>
+    <color name="black">#000000</color>
+    <color name="half_000000">#e0000000</color>
+    <color name="blue">#0081ff</color>
+
+    <color name="c_222222">#222222</color>
+    <color name="c_333333">#333333</color>
+    <color name="c_444444">#444444</color>
+    <color name="c_555555">#555555</color>
+    <color name="c_666666">#666666</color>
+    <color name="c_777777">#777777</color>
+    <color name="c_999999">#999999</color>
+    <color name="c_aaaaaa">#aaaaaa</color>
+    <color name="c_cccccc">#cccccc</color>
+    <color name="c_d7d7d7">#d7d7d7</color>
+    <color name="c_f3f3f3">#f3f3f3</color>
+    <color name="c_f3f5f7">#f3f5f7</color>
+    <color name="c_f1f1f1">#f1f1f1</color>
+    <color name="ffffff">#ffffff</color>
+    <color name="half_ffffff">#e0ffffff</color>
+    <color name="c_fafafa">#fafafa</color>
+    <color name="c_3ec34a">#3ec34a</color>
+    <color name="c_292929">#292929</color>
+    <color name="c_c7c7c7">#c7c7c7</color>
+
+    <color name="c_78b50d">#78b50d</color>
+    <color name="c_f8a438">#f8a438</color>
+    <color name="quantao">#8468f9</color>
+
+    <color name="gary">#898989</color>
+</resources>
